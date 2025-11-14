@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/887248059952618354/76b0e2a05b4c4ff0a3700afab506a40e/artifacts
+end_time: 1763058429733
+entry_point_name: ''
+experiment_id: '887248059952618354'
+lifecycle_stage: active
+run_id: 76b0e2a05b4c4ff0a3700afab506a40e
+run_name: defiant-ant-789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763058429299
+status: 3
+tags: []
+user_id: rajy3

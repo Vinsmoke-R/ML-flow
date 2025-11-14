@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/515691fdcdc843f98ea75db22f15fa30/artifacts
+end_time: 1763054358217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 515691fdcdc843f98ea75db22f15fa30
+run_name: amazing-gnu-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763054357836
+status: 3
+tags: []
+user_id: rajy3

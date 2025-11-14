@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/887248059952618354/f16f174b702f41cd9f6a9b3ecd127e62/artifacts
+end_time: 1763059454386
+entry_point_name: ''
+experiment_id: '887248059952618354'
+lifecycle_stage: active
+run_id: f16f174b702f41cd9f6a9b3ecd127e62
+run_name: angry-doe-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763059446373
+status: 3
+tags: []
+user_id: rajy3

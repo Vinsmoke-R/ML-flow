@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rajy3/OneDrive/Desktop/OOPS/ML-flow/mlruns/517869756154492030/models/m-521df910283d42e098ab7f8edf6c4e73/artifacts
+creation_timestamp: 1763126087407
+experiment_id: '517869756154492030'
+last_updated_timestamp: 1763126092834
+model_id: m-521df910283d42e098ab7f8edf6c4e73
+model_type: null
+name: random_forest
+source_run_id: 6e8d0b16b99041319fca6d25c2e767d1
+status: 2
+status_message: null

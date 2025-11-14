@@ -1,0 +1,15 @@
+creation_timestamp: 1763127175865
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1763127175865
+model_id: m-521df910283d42e098ab7f8edf6c4e73
+name: raj-mlflow-1
+run_id: 6e8d0b16b99041319fca6d25c2e767d1
+run_link: ''
+source: models:/m-521df910283d42e098ab7f8edf6c4e73
+status: READY
+status_message: null
+storage_location: file:///C:/Users/rajy3/OneDrive/Desktop/OOPS/ML-flow/mlruns/517869756154492030/models/m-521df910283d42e098ab7f8edf6c4e73/artifacts
+user_id: null
+version: 1
